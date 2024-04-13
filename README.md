@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afrozesvu" alt="afrozesvu" /></a> </p>
 
-- 🌱 I’m currently learning **Backend stack**
+- 🌱 I’m currently learning **FullStack Web Development**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 💬 Ask me about **DSA**
 
