@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afroze Mohammad</h1>
-<h3 align="center"> Iam proficient in Data Structures and Algorithms problem solving using java and an aspiring full stack developer</h3>
+<h3 align="center"> Iam proficient in Data Structures and Algorithms problem solving using java and a Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrozesvu&label=Profile%20views&color=0e75b6&style=flat" alt="afrozesvu" /> </p>
 
