@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, Java , DSA**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS,Javascript,React,Bootstrap, Java , DSA**
 
 - 📫 How to reach me **mohammadafroze26@gmail.com**
 
