@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Afroze</h1>
-<h3 align="center">A passionate frontend developer and Java Developer</h3>
+<h3 align="center">A passionate  MERN developer and Java Developer</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **MERN Applications**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap,Javascript, React JS, Java , DSA**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap,Javascript, React,Express, Node.js,Mongo DB, Java , DSA**
 
 - 📫 How to reach me **mohammadafroze26@gmail.com**
 
